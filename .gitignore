@@ -1,5 +1,6 @@
 # Wykluczenie środowiska wirtualnego venv
 venv/
+.venv/  
 
 # Cache i pliki tymczasowe Pythona
 __pycache__/
